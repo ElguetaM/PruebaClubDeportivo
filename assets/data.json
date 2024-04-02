@@ -1,0 +1,7 @@
+{
+  "deportes": [
+    { "nombre": "Tenis", "precio": "30" },
+    { "nombre": "Golf", "precio": "56" },
+    { "nombre": "PingPong", "precio": "67" }
+  ]
+}
